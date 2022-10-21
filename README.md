@@ -1,3 +1,3 @@
-# Addon Name
+# Collectinator
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Collectinator. Modified for Ascension.gg. 
